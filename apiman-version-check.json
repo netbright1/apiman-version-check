@@ -1,6 +1,6 @@
 {
     "active_check": {
-        "active": true,
+        "active": false,
         "message": "APIMan is available."
     },
     "latest_version": {
